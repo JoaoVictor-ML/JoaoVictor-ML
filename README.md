@@ -206,9 +206,9 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor-ML&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor-ML&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
 
 <br><br>
 
@@ -222,7 +222,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictor-ML&bg_color=050505&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -232,7 +232,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor-ML&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
@@ -265,7 +265,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/jo%C3%A3o-victor-moraes-lopes-a8b8aa283/)">
 <img src="https://img.shields.io/badge/LinkedIn-00ff9d?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
@@ -273,11 +273,11 @@ A practical guide designed to introduce programming logic and computational thin
 <img src="https://img.shields.io/badge/Portfolio-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="joaovictorlopes2045j@gmail.com">
 <img src="https://img.shields.io/badge/Email-00ff9d?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/JoaoVictor-ML">
 <img src="https://img.shields.io/badge/GitHub-00ff9d?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -292,11 +292,11 @@ A practical guide designed to introduce programming logic and computational thin
 ```text
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
-║        SYSTEM STATUS : ONLINE                     ║
-║        CONNECTION   : ESTABLISHED                 ║
+║        SYSTEM STATUS : ONLINE                      ║
+║        CONNECTION   : ESTABLISHED                  ║
 ║        ACCESS       : GRANTED                      ║
 ║                                                    ║
-║        THANK YOU FOR VISITING                     ║
+║        THANK YOU FOR VISITING                      ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
