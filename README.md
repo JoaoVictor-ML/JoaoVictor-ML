@@ -21,7 +21,7 @@
 
 ---
 
-# `> ABOUT_ME`
+# `> ABOUT ME`
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
@@ -53,7 +53,7 @@
 
 ---
 
-# `> TECH_STACK`
+# `> TECH STACK`
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 <br><br>
 
-### `CURRENTLY_LEARNING`
+### `CURRENTLY LEARNING`
 
 <img src="https://skillicons.dev/icons?i=git,github,nodejs,react" />
 
@@ -178,7 +178,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 ---
 
-# `> CURRENT_MISSION`
+# `> CURRENT MISSION`
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
@@ -202,15 +202,10 @@ A practical guide designed to introduce programming logic and computational thin
 
 ---
 
-# `> GITHUB_ANALYTICS`
+
+# `> GITHUB ANALYTICS`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor-ML&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor-ML&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=JoaoVictor-ML&theme=matrix&hide_border=true" />
 
@@ -218,35 +213,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 ---
 
-# `> SYSTEM ACTIVITY // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img
-  src="./profile-cards/lifetime.dark.svg"
-  width="100%"
-  alt="Contribution History"
-/>
-
-</div>
-
----
-
-# `> TROPHIES`
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=JoaoVictor-ML&theme=matrix&no-frame=true&no-bg=true&margin-w=10"
-  width="100%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_PROTOCOL`
+# `> CONTRIBUTION PROTOCOL`
 
 <div align="center">
 
