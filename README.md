@@ -16,7 +16,6 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9d?style=for-the-badge&logo=matrix&logoColor=black"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff9d?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -26,7 +25,7 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
-║                     USER PROFILE                          ║
+║                     USER PROFILE                           ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
 ║  NAME        :: João Victor Moraes Lopes                   ║
@@ -35,10 +34,10 @@
 ║  FOCUS       :: Software Development                       ║
 ║                                                            ║
 ║  I am a technology enthusiast passionate about             ║
-║  programming, mathematics, problem solving and              ║
+║  programming, mathematics, problem solving and             ║
 ║  building digital experiences.                             ║
 ║                                                            ║
-║  Currently expanding my knowledge in software               ║
+║  Currently expanding my knowledge in software              ║
 ║  development while turning ideas into real projects.       ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
