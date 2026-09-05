@@ -242,7 +242,7 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/JoaoVictor-ML/JoaoVictor-ML/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
 
