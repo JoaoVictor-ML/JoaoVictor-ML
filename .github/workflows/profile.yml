@@ -1,0 +1,33 @@
+name: Generate Profile Analytics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Profile Cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          username: JoaoVictor-ML
+          output-dir: profile-cards
+          cards: |
+            overview
+            lifetime
+            contributions
+            rhythm
+            languages
+          commit: true
