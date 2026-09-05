@@ -185,7 +185,7 @@ A practical guide designed to introduce programming logic and computational thin
 │                    JARVIS // TASK MANAGER                  │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [■■■■■■■■■■■■■■■■■■■■] 100%  LEARNING                   │
+│  [■■■■■■■■■■■■■■■■■■■■] 100%  LEARNING                     │
 │                                                            │
 │  [+] Improve programming fundamentals                      │
 │  [+] Build real-world software projects                    │
@@ -212,17 +212,21 @@ A practical guide designed to introduce programming logic and computational thin
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=matrix&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JoaoVictor-ML&theme=matrix&hide_border=true" />
 
 </div>
 
 ---
 
-# `> ACTIVITY_GRAPH`
+# `> SYSTEM ACTIVITY // CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictor-ML&bg_color=050505&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+  src="./profile-cards/lifetime.dark.svg"
+  width="100%"
+  alt="Contribution History"
+/>
 
 </div>
 
@@ -232,7 +236,11 @@ A practical guide designed to introduce programming logic and computational thin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoaoVictor-ML&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=JoaoVictor-ML&theme=matrix&no-frame=true&no-bg=true&margin-w=10"
+  width="100%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
