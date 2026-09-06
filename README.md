@@ -65,7 +65,7 @@
 
 ### `CURRENTLY LEARNING`
 
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=git,github,nodejs" />
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows" />
+ <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,pycharm" />
 
 <br><br>
 
@@ -96,7 +96,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ MATRIX PORTFOLIO</h3>
+<h3 align="center">MATRIX PORTFOLIO</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-00ff9d?style=flat-square&logo=html5&logoColor=black"/>
@@ -118,7 +118,7 @@ Personal portfolio inspired by the Matrix universe, combining interactive interf
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚜 AGRICULTURAL SYSTEM</h3>
+<h3 align="center">SHARKTANK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Development-00ff9d?style=flat-square"/>
@@ -126,12 +126,12 @@ Personal portfolio inspired by the Matrix universe, combining interactive interf
 </p>
 
 <p align="center">
-System developed for managing the rental of agricultural equipment, created as part of my Systems Development studies.
+System developed for cafeteria management as part of my Systems Development studies.
 </p>
 
 <p align="center">
 <a href="SEU_LINK_DO_PROJETO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff9d?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00ff9d?style=for-the-badge&logoColor=black"/>
 </a>
 </p>
 
@@ -143,7 +143,7 @@ System developed for managing the rental of agricultural equipment, created as p
 
 <td width="50%" valign="top">
 
-<h3 align="center">🍫 J&L BRIGADEIROS</h3>
+<h3 align="center">J&L BRIGADEIROS</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Entrepreneurship-00ff9d?style=flat-square"/>
@@ -154,11 +154,17 @@ System developed for managing the rental of agricultural equipment, created as p
 Entrepreneurship project focused on product sales, pricing, financial organization and business management.
 </p>
 
+<p align="center">
+<a href="SEU_LINK_DO_PROJETO">
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00ff9d?style=for-the-badge&logoColor=black"/>
+</a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📚 LOGIC GUIDE</h3>
+<h3 align="center">LOGIC GUIDE</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-00ff9d?style=flat-square"/>
@@ -167,6 +173,12 @@ Entrepreneurship project focused on product sales, pricing, financial organizati
 
 <p align="center">
 A practical guide designed to introduce programming logic and computational thinking to beginners.
+</p>
+
+<p align="center">
+<a href="SEU_LINK_DO_PROJETO">
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00ff9d?style=for-the-badge&logoColor=black"/>
+</a>
 </p>
 
 </td>
@@ -182,15 +194,15 @@ A practical guide designed to introduce programming logic and computational thin
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│                    JARVIS // TASK MANAGER                  │
+│                       TASK MANAGER                         │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [■■■■■■■■■■■■■■■■■■■■] 100%  LEARNING                     │
+│  [■■■■■■■■■■■■■■■■■□□□] 85%  ACTIVE                        │
 │                                                            │
-│  [+] Improve programming fundamentals                      │
+│  [+] Strengthen programming fundamentals                   │
 │  [+] Build real-world software projects                    │
-│  [+] Expand knowledge of Python & JavaScript               │
-│  [+] Study Computer Science                                │
+│  [+] Expand Python & JavaScript knowledge                  │
+│  [+] Prepare for Computer Science                          │
 │  [+] Improve problem-solving skills                        │
 │  [+] Build a stronger developer portfolio                  │
 │                                                            │
